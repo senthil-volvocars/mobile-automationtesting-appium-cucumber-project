@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="70.173">
+<testcase classname="Automate Mobile App Testing" name="Clicking the get started button" time="70.031">
+<system-out><![CDATA[Given home page is lanuched.................................................passed
+When user clicks on get started button......................................passed
+Then user navigates to tabs list page.......................................passed
+Then user clicks on reservation plus icon...................................passed
+And enter the name and current time.........................................passed
+Then enter the randon phone number..........................................passed
+Then user click on the current date.........................................passed
+And user click on the time..................................................passed
+Then user adds guest........................................................passed
+Then user clicks on section dropdown and select the third option............passed
+And user clicks on table dropdown and selects last option...................passed
+Then user selects the origin dropdown and selects online option.............passed
+And user clicks on done button..............................................passed
+Then click on the old request and click back button.........................passed
+And click on Image back button..............................................passed
+Then click on the menu button...............................................passed
+And click on code samples...................................................passed
+Then launch app again.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
